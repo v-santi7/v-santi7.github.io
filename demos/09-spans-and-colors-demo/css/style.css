@@ -1,0 +1,15 @@
+h1 {
+    color: navy;
+    background-color: gold;
+}
+#p1 {
+    color: navy;
+    background-color: gold;
+    padding: 20px
+}
+span {
+    font-weight: 750;
+}
+#s1{
+    color: rgb(3, 88, 3);
+}
