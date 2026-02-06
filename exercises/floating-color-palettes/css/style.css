@@ -1,0 +1,45 @@
+.color-palette {
+    box-shadow: 6px 6px 12px #372105;
+    text-align: center;
+    margin: 24px;
+    padding: 24px;
+}
+
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#p1-c1 {
+    background-color: #e5d8bd;
+    color: #282119;
+}
+#p1-c2 {
+    background-color: #282119;
+    color: #ffffff;
+}
+#p1-c3 {
+    background-color: #65371f;
+    color: #ffffff;
+}
+.some-blue {
+    box-shadow: 6px 6px 12px #1c3150;
+    text-align: center;
+    margin: 24px;
+    padding: 24px;
+}
+.color {
+    margin: 0px;
+    padding: 24;
+}
+#sb1 {
+    background-color: #4d6489;
+    color: #ffffff;
+}
+#sb2 {
+    background-color: #78809d;
+    color: #ffffff;
+}
+#sb3 {
+    background-color: #dbc6c0;
+    color: #1c3150;
+}
