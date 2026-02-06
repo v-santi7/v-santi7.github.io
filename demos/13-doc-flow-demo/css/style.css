@@ -1,0 +1,21 @@
+#p1 {
+    background-color: darksalmon;
+    padding: 20px;
+}
+#p2 {
+    background-color: darkturquoise;
+    padding: 20px;
+}
+.column {
+    font-family: monospace;
+    width: 250px;
+    display: inline-block;
+}
+.column span {
+    background-color: black;
+    color: #ffffff;
+    display: block;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
