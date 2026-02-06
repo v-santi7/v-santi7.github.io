@@ -27,6 +27,7 @@
     margin: 24px;
     padding: 24px;
 }
+
 .color {
     margin: 0px;
     padding: 24;
@@ -42,4 +43,31 @@
 #sb3 {
     background-color: #dbc6c0;
     color: #1c3150;
+}
+.flower-sunset {
+    box-shadow: 6px 6px 12px #1c3150;
+    text-align: center;
+    margin: 24px;
+    padding: 24px;
+}
+
+.color {
+    margin: 0px;
+    padding: 24;
+}
+#fs1 {
+    background-color: #e8d3a3;
+    color: #3b5aad;
+}
+#fs2 {
+    background-color: #ffa633;
+    color: #3b5aad;
+}
+#fs3 {
+    background-color: #3b5aad;
+    color:#ffffff;
+}
+#fs4 {
+    background-color: #4fb2aa;
+    color: #ffffff;
 }
