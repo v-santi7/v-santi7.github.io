@@ -1,0 +1,27 @@
+.post-it-lightyellow {
+    background-color: rgb(252, 252, 145);
+    width: 222px;
+    height: 222px;
+    padding: 24px;
+    margin: 24px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.post-it-green {
+    background-color: rgb(177, 236, 177);
+    width: 166;
+    height: 120px;
+    padding: 24px;
+    margin: 24px;
+    vertical-align: top;
+    display: inline-block;
+    font-size: larger;
+}
+
+.poloriod {
+    background-color: lightgreen;
+    padding: 18px;
+    padding-bottom: 57px;
+    margin: 124px;
+}
