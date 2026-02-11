@@ -1,0 +1,18 @@
+#navbar {
+    text-align: center;
+    padding: 24px;
+    background-color: cornflowerblue;
+}
+#navbar a {
+    color: floralwhite;
+    text-decoration: none;
+}
+p a {
+    color: teal;
+}
+p.warning {
+    background-color:lightcoral
+}
+p.warning a {
+    color:rgba(19, 50, 207, 0.598)
+}
