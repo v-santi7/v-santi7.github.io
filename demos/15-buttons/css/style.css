@@ -1,0 +1,30 @@
+div {
+    background-color:navajowhite;
+    padding: 25px;
+    margin-bottom: 50px;
+}
+div p {
+    margin-top: 0px;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 10px;
+    display: inline-block;
+    color: floralwhite;
+    border-radius: 10px;
+    box-shadow: 2px 2px 25px #1115;
+    border: 2px solid chocolate;
+    transition: background-color 0.7s, color 0.1s;
+}
+.btn:hover {
+    background-color: transparent;
+    border: 2px solid chocolate;
+    color: chocolate;
+}
+.btn.brd:hover {
+    background-color: transparent;
+    border-color: navy;
+    color: navy;
+}
