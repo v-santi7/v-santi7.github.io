@@ -1,0 +1,26 @@
+#morning {
+    background-color: #344a60;
+    color:floralwhite;
+    padding: 30px;
+    border-bottom: 3px solid #7494b4;
+    margin-bottom: 50px;
+}
+#morning .completed {
+    text-decoration: line-through;
+}
+#morning .important {
+    font-weight: bold;
+    color: #74b4b4;
+}
+#morning .completed.important {
+    background-color:#54789c ;
+}
+#morning li {
+    padding:7px
+}
+#morning .button {
+    display: inline-block;
+    background-color:#6699cc;
+    color: floralwhite;
+    text-decoration: none;
+}
