@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.centered-column {
+    width: 50%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#promo {
+    width: 50%;
+    max-width: 1000px;
+    margin-right: 1280px;
+}

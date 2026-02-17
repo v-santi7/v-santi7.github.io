@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    font-family: "Source Sans 3", sans-serif;
+    background-color: skyblue;
+}
+img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+.contain {
+    width: 85%;
+    max-width: 900px;
+    margin: 0px auto;
+}
+.sbs {
+    
+}
