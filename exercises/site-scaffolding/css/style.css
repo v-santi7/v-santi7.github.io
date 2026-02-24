@@ -1,0 +1,15 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+.home {
+    padding: 30px;
+    justify-items: center;
+    background-color: #2a9d8f;
+}
+.link1 {
+    text-decoration: none;
+}
