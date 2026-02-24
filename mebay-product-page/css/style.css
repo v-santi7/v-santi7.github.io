@@ -8,3 +8,6 @@ body {
 img {
     object-fit: cover;
 }
+.seller {
+    display: flex;
+}
