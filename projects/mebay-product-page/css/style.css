@@ -5,9 +5,19 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
-img {
+.imgage-container {
     object-fit: cover;
+    display: flex;
+}
+.featured-image-column {
+    display: flex;
 }
 .seller {
+    display: flex;
+}
+.sidebar {
+    display: flex;
+}
+.product {
     display: flex;
 }
