@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+#theme {
+    background-image: url(../images/exercise-pic/exercise-5.jpeg)
+    background-size: cover;
+    background-position: bottom left;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.space-gal {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.space-gal img {
+    flex: 1;
+    height: 250px;
+}
