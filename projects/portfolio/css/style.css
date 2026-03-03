@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Rubik+Mono+One&display=swap');
+
+#contrast-hero {
+    background-image: url(../images/gallery-work/hi-res/urban-hi-res-1ui7.jpg);
+    background-size: cover;
+    background-position: bottom left;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#navbar a {
+    text-decoration: none;
+    color: floralwhite;
+    margin: 25px;
+    
+
+}
+#navbar {
+    background-color: darkred;
+    height: 45px;
+}
+#contrast-hero .content {
+    background-color: #ffffff55;
+    padding: 40px;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+}
